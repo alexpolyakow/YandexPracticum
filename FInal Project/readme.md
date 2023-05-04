@@ -9,4 +9,4 @@
 Описание данных представлено в проекте.
 
 Используемые библиотеки
-pandas, numpy, math, scipy, phik, seaborn, plotly, matplotlib
+Python, Pandas, Tableau, Scipy, Seaborn, Plotly, проверка гипотез, Phik, Plotly, Matplotli
